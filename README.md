@@ -99,7 +99,7 @@ For each mini-batch:
 ```
 .
 ├── train.csv
-├── MNIST_NN_scratch_GD.ipynb 
+├── MNIST_NN_scratch_SGD.ipynb 
 ├── README.md
 ```
 
@@ -122,7 +122,7 @@ pip install numpy pandas matplotlib
 3. Open the Jupyter Notebook:
 
 Then open:  
-MNIST_NN_scratch_GD.ipynb  
+MNIST_NN_scratch_SGD.ipynb  
 and 
 Run cells sequentially
 
