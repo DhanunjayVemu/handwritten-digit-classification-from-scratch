@@ -99,7 +99,7 @@ For each mini-batch:
 ```
 .
 ├── train.csv
-├── neural_network.py
+├── MNIST_NN_scratch_GD.ipynb 
 ├── README.md
 ```
 
@@ -110,7 +110,7 @@ For each mini-batch:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/DhanunjayVemu/handwritten-digit-classification-from-scratch.git
 ```
 
 2. Install dependencies:
