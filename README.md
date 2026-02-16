@@ -100,7 +100,10 @@ For each mini-batch:
 ## Project Structure
 
 ```
-.
+├── assets
+│   ├── cost_vs_epochs.png
+│   ├── accuracy_vs_epochs.png
+│   └── confusion_matrix.png
 ├── train.csv
 ├── MNIST_NN_scratch_SGD.ipynb 
 ├── README.md
