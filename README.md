@@ -70,8 +70,11 @@ J = -(1/m) Σ y log(a)
 ## Results
 
 * Cost decreases steadily over iterations.  
+![Cost vs Epochs](assets/cost_vs_epochs.png)
 * Accuracy increases and stabilizes.  
+![Accuracy vs Epochs](assets/accuracy_vs_epochs.png)
 * Strong diagonal dominance in confusion matrix.  
+![Confusion Matrix](assets/confusion_matrix.png)
 * Model generalizes well on development set.  
 
 ---
